@@ -7,7 +7,9 @@ const Header: React.FunctionComponent<IHeaderProps> = () => {
     <div className="bg-slate-900">
       <div className="container p-2 mx-auto"></div>
       <nav className="py-5">
-        <div className="text-base text-white">Acortador de Links</div>
+        <div className="text-base text-center text-white">
+          Acortador de Links
+        </div>
       </nav>
     </div>
   );
